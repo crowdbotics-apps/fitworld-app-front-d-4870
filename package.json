@@ -39,7 +39,7 @@
 		"redux-persist-transform-filter": "0.0.18",
 		"redux-thunk": "^2.3.0",
 		"remote-redux-devtools": "^0.5.13",
-		"socket.io-client": "2.1.1",
+		"socket.io-client": "2.5.0",
 		"whatwg-fetch": "2.0.4"
 	},
 	"devDependencies": {
